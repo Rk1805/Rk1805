@@ -2,6 +2,9 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        .inst{
+        content: url('https://img.shields.io/badge/-E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Frishi_kaneria%2F')
+        }
         .inst:hover{
         content: url('https://img.shields.io/badge/Rishi__Kaneria-E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Frishi_kaneria%2F')
         }
