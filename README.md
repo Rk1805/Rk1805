@@ -1,7 +1,7 @@
 <img src='2ijHQ1HLbhfwzifGX1r8SoREkNJ.svg'/><hr>
 # Hey 👋, I'm Rishi!
 > I’m interested in `DevOps` and `Cybersec`!\
-> I’m currently learning `DevOps`<hr>
+> I’m currently learning `backend development`<hr>
 ## Social Handles:
 <a href="https://www.instagram.com/rishi_kaneria/" >
  <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Frishi_kaneria%2F" class="inst" />
