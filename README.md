@@ -1,4 +1,4 @@
-<img src='2ijHQ1HLbhfwzifGX1r8SoREkNJ.svg'/><hr>
+
 # Hey 👋, I'm Rishi!
 > I’m interested in `DevOps` and `Cybersec`!\
 > I’m currently learning `backend development`<hr>
