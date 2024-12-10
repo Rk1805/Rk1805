@@ -19,7 +19,9 @@ Mail: rishipatel1112005@gmail.com
 <img src='https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white' alt='C' height='50px'/>  &emsp;
 <img src='https://img.shields.io/badge/-00599C?logo=C%2B%2B&logoColor=white' alt='C++' height='50px'/> &emsp;
 <img src='https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=white' alt='JS' height='50px'/>  &emsp;
-<img src='https://img.shields.io/badge/-E34F26?style=plastic&logo=html5&logoColor=white' alt='HTML' height='50px'/>
+<img src='https://img.shields.io/badge/-E34F26?style=plastic&logo=html5&logoColor=white' alt='HTML' height='50px'/><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rk1805)](https://github.com/Rk1805/github-readme-stats)
+
 ## Tech Stacks
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoSize=auto&labelColor=black&color=%2361DAFB&link=https%3A%2F%2Freact.dev%2F" height='50px'/>  &emsp; &emsp;     
@@ -29,7 +31,7 @@ Mail: rishipatel1112005@gmail.com
 <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoSize=auto&labelColor=black&color=%23DD2C00&link=https%3A%2F%2Ffirebase.google.com%2F" height='50px'/> 
 </p>
 
-
+<!--![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rk1805&show_icons=true)-->
 
 <!---
 Rk1805/Rk1805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
