@@ -12,10 +12,13 @@
 <a href="https://www.facebook.com/profile.php?id=100093983456054" >
  <img alt="facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=plastic&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100093983456054" />
 </a><br>
-Mail: rishipatel1112005@gmail.com
+<a href="https://mail.google.com" >
+<img alt="Static Badge" src="https://img.shields.io/badge/rishipatel1112005@gmail.com-red?logo=gmail&labelColor=black&color=%23EA4335">
 
-## Languages:
-<img src='https://img.shields.io/badge/-3776AB?logo=python&logoColor=white' alt='Python' height='50px'/> &emsp;
+</a><br>
+
+## Tools and Technologies:
+<!-- <img src='https://img.shields.io/badge/-3776AB?logo=python&logoColor=white' alt='Python' height='50px'/> &emsp;
 <img src='https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white' alt='C' height='50px'/>  &emsp;
 <img src='https://img.shields.io/badge/-00599C?logo=C%2B%2B&logoColor=white' alt='C++' height='50px'/> &emsp;
 <img src='https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=white' alt='JS' height='50px'/>  &emsp;
@@ -31,6 +34,9 @@ Mail: rishipatel1112005@gmail.com
 <img alt="Static Badge" src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=orange&logoSize=auto&labelColor=black&color=%23DD2C00&link=https%3A%2F%2Ffirebase.google.com%2F" height='40px'/> &emsp; &emsp;
  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue&labelColor=black&color=%232496ED" height='40px'>
 
+</p> -->
+<p >
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,github,bootstrap,tailwind,react,gtk,firebase,docker,nodejs,postman,vscode,vim,figma&perline=9" />
 </p>
 
 <!--![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rk1805&show_icons=true)-->
