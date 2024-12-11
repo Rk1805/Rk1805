@@ -17,13 +17,12 @@
 
 </a><br>
 
-## Tools and Technologies:
+## 🛠️Tools and Technologies🔧:
 <!-- <img src='https://img.shields.io/badge/-3776AB?logo=python&logoColor=white' alt='Python' height='50px'/> &emsp;
 <img src='https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white' alt='C' height='50px'/>  &emsp;
 <img src='https://img.shields.io/badge/-00599C?logo=C%2B%2B&logoColor=white' alt='C++' height='50px'/> &emsp;
 <img src='https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=white' alt='JS' height='50px'/>  &emsp;
 <img src='https://img.shields.io/badge/-E34F26?style=plastic&logo=html5&logoColor=white' alt='HTML' height='50px'/><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rk1805)](https://github.com/Rk1805/github-readme-stats)
 
 ## Tech Stacks
 <p>
@@ -39,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,github,bootstrap,tailwind,react,gtk,firebase,docker,nodejs,postman,vscode,vim,figma&perline=9" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rk1805)](https://github.com/Rk1805/github-readme-stats)
 <!--![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rk1805&show_icons=true)-->
 
 <!---
