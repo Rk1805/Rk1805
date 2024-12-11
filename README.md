@@ -24,11 +24,13 @@ Mail: rishipatel1112005@gmail.com
 
 ## Tech Stacks
 <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoSize=auto&labelColor=black&color=%2361DAFB&link=https%3A%2F%2Freact.dev%2F" height='50px'/>  &emsp; &emsp;     
-<img alt="Static Badge" src="https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoSize=auto&labelColor=black&color=%235FA04E&link=https%3A%2F%2Fnodejs.org%2Fen" height='50px'/>  &emsp; &emsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoSize=auto&labelColor=black&color=%237952B3&link=https%3A%2F%2Fgetbootstrap.com%2F" height='50px'/> <br><br>
-<img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoSize=auto&labelColor=black&color=%2306B6D4&link=https%3A%2F%2Ftailwindcss.com%2F" height='50px'> &emsp; &emsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoSize=auto&labelColor=black&color=%23DD2C00&link=https%3A%2F%2Ffirebase.google.com%2F" height='50px'/> 
+<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoSize=auto&labelColor=black&color=%2361DAFB&link=https%3A%2F%2Freact.dev%2F" height='40px'/>  &emsp; &emsp;     
+<img alt="Static Badge" src="https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodedotjs&logoSize=auto&labelColor=black&color=%235FA04E&link=https%3A%2F%2Fnodejs.org%2Fen" height='40px'/>  &emsp; &emsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoSize=auto&labelColor=black&color=%237952B3&link=https%3A%2F%2Fgetbootstrap.com%2F" height='40px'/> <br><br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoSize=auto&labelColor=black&color=%2306B6D4&link=https%3A%2F%2Ftailwindcss.com%2F" height='40px'> &emsp; &emsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=orange&logoSize=auto&labelColor=black&color=%23DD2C00&link=https%3A%2F%2Ffirebase.google.com%2F" height='40px'/> &emsp; &emsp;
+ <img alt="Static Badge" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=blue&labelColor=black&color=%232496ED" height='40px'>
+
 </p>
 
 <!--![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rk1805&show_icons=true)-->
