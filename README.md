@@ -1,8 +1,8 @@
 
-# About Me
+## About Me🙂
   I’m am a Second-year CS undergrad at IIT Jodhpur. I am a passionate developer interested in collaboration of AI with Development and building innovative solutions with code and creativity.
   
-## Social Handles:
+## 🌏Social Handles:
 <a href="https://www.instagram.com/rishi_kaneria/" >
  <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Frishi_kaneria%2F" class="inst" />
 </a><br>
