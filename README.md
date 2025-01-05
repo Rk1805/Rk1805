@@ -35,6 +35,9 @@
   <a href="https://firebase.google.com/" >
     <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="50px" />
   </a>
+  <a href="https://www.postgresql.org/" >
+    <img src="https://skillicons.dev/icons?i=postgresql&perline=9" height="50px" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" >
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="50px" />
   </a>
