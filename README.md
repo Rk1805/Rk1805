@@ -33,7 +33,7 @@
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" height="50px" />
   </a>
   <a href="https://reactnative.dev/" >
-    <img src="./download.jpeg" height="50px" />
+    <img src="./download.png" width="65px" height="50px" />
   </a>
   <a href="https://nodejs.org/en" >
     <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height="50px" />
