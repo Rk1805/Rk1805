@@ -1,6 +1,6 @@
 
 ## About Me🙂
-  I’m am a Second-year CS undergrad at IIT Jodhpur. I am a passionate developer interested in collaboration of AI with Development and building innovative solutions with code and creativity.
+  I’m am a Third-year CS undergrad at IIT Jodhpur. I am a passionate developer interested in collaboration of AI with Development and building innovative solutions with code and creativity.
   
 ## 🌏Social Handles:
 <a href="https://www.instagram.com/rishi_kaneria/" >
